@@ -33,6 +33,9 @@
 
 .navbar-nav {
     display: inline-block;}
+
+.navbar-collapse {
+    text-align: center;}
     
 .navbar-nav li {
     display: inline-block;
@@ -46,8 +49,9 @@
     padding-right: 0;}
 
 .nav-link {
+    padding-bottom: 15px;
     font-size: 22px;
-    line-height: 2.0;
+    line-height: 0.5;
     font-family: Georgia, Times, "Times New Roman", serif;}
 
 /* Main content CSS
