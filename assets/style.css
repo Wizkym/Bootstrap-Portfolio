@@ -95,6 +95,7 @@ html {
     min-height: 100%;}
 
 footer {
+    margin-bottom: -70px;
     position: absolute;
     bottom: 0;
     width: 100%;
